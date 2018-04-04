@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: transparent url('../img/furley.png') 0 0 repeat;
+    font-family: Verdana, sans-serif;
+}
+#header a, #header a:visited {
+    color: #f9f9f7;
+}
+#header a:hover {
+    color: #ccc;
+}
+body a, body a:visited {
+    color: #910000;
+}
+body a:hover {
+    color: #a00;
+}
+.breadcrumb {
+    background: transparent url('../img/furley2.png') 0 0 repeat;
+}
+.divider {
+    color: #ccc;
+    padding: 0 5px;
+}
+#content {
+    font-size: 1.2em;
+    line-height: 1.6em;
+}
+#content p {
+    margin-bottom: 20px;
+}
+.padding {
+    padding: 0 120px;
+}
+.row { 
+    background: transparent url('../img/furley.png') 0 0 repeat;
+}
+
+#footer {
+    margin-top: 20px;
+    color: #444;
+}
